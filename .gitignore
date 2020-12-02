@@ -2,7 +2,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 ### Python ###
-# Byte-compiled / optimized / DLL files
+# Byte-compiled 
+/ optimized 
+/ DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -10,7 +12,8 @@ __pycache__/
 # C extensions
 *.so
 
-# Distribution / packaging
+# Distribution 
+/ packaging 
 .Python
 build/
 develop-eggs/
@@ -141,4 +144,4 @@ dmypy.json
 # profiling data
 .prof
 
-data/
+
